@@ -16,4 +16,7 @@ public class Constructor {
     public String getStatus() {
         return status;
     }
+    public void setAmount(int amount) {
+        this.amount = amount;
+    }
 }
